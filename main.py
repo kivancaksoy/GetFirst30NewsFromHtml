@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+# website url
 target_url = ""
 news_data = []
 
